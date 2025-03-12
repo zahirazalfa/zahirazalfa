@@ -1,1 +1,74 @@
-#index.html a1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card - Zalfa</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to right, #FFC0CB, #FFDEE9);
+        }
+
+        .profile-card {
+            background: white;
+            width: 350px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        .profile-card h2 {
+            font-size: 22px;
+            color: #333;
+            margin: 10px 0;
+        }
+
+        .profile-card p {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .contact-btn {
+            display: inline-block;
+            margin: 15px 0;
+            padding: 10px 15px;
+            background: #FF85A2;
+            color: white;
+            border-radius: 25px;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .contact-btn:hover {
+            background: #ff5c7a;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="profile-card">
+        <h2>Zalfa' A Zahirah</h2>
+        <p>📚 Student at Universitas Sumatera Utara</p>
+        <p>💡 Passionate about UI/UX & Technology</p>
+        <a href="https://zahirazalfa.github.io/zahirazalfa/" class="contact-btn" target="_blank">Visit My GitHub</a>
+    </div>
+
+</body>
+</html>

@@ -1,31 +1,44 @@
-## Hi there 👋, I'm Zalfa' A Zahirah
+<div align="center">
+  <h1>
+    <img src="https://github.com/zahirazalfa/assets/blob/main/waving-hand.gif" width="60">
+    Hello, I'm Zalfa' A Zahirah 🎓  
+  </h1>
 
-### 👩‍💻 About Me  
-🔹 **Full Name**: Zalfa' A Zahirah  
-🔹 **Profession**: Software Developer & Data Enthusiast  
-🔹 **Current Focus**: Developing admin information systems for digital transformation in clothing manufacturing businesses  
-🔹 **Skills**: PHP (Native), MySQL, JavaScript, Bootstrap, SQL Triggers & Functions  
+  <h3>📚 Information Technology Student</h3>
 
-### 🚀 Experience  
-✅ **Web Development**: Customer Management System, Inventory & Cashier System, Payroll Automation  
-✅ **Database Management**: SQL Query Optimization, Stored Procedures, Data Logging  
-✅ **Frontend Design**: Responsive UI/UX with Bootstrap & CSS  
+  <p>
+    <a href="https://www.instagram.com/zahirazlfa?igsh=djB0NDdwend5dmhx">
+      <img src="https://img.shields.io/badge/Instagram-@zahirazlfa-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
+    </a>
+    <a href="mailto:zalfazahirah50@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+    </a>
+  </p>
 
-### 📚 Currently Learning  
-🔹 Advanced SQL Querying & Optimization  
-🔹 Web Application Security Best Practices  
-🔹 Modern UI Design Trends  
-
-### 🤝 Let's Collaborate  
-🔹 Open to working on **database-driven applications**  
-🔹 Interested in **automating business processes**  
-🔹 Passionate about **data representation & visualization**  
-
-### 📬 Get in Touch  
-📧 Email: [your-email@example.com]  
-🌐 Portfolio: [your-website.com]  
-💼 LinkedIn: [linkedin.com/in/zahirazalfa]  
-💻 GitHub: [github.com/zahirazalfa]  
+  <img src="https://media.giphy.com/media/xT0GqzCxmC1eOaOdeM/giphy.gif" width="400">
+</div>
 
 ---
-*"Transforming data into meaningful insights and automation solutions!"*
+
+## 📝 About Me  
+> *"Education is the most powerful weapon which you can use to change the world."* — Nelson Mandela  
+
+🔹 **Currently Studying:** Information Technology  
+🔹 **Academic Interests:** Data Science, UI/UX, and Digital Business  
+🔹 **Hobbies:** Exploring new knowledge, reading books, and designing creative visuals  
+🔹 **Dream:** To create impactful innovations in technology and education  
+🔹 **Fun Fact:** I love aesthetically pleasing designs and enjoy discovering new places!  
+
+---
+
+## 🌟 Let's Connect!  
+📩 **Email:** [zalfazahirah50@gmail.com](mailto:zalfazahirah50@gmail.com)  
+📸 **Instagram:** [@zahirazlfa](https://www.instagram.com/zahirazlfa?igsh=djB0NDdwend5dmhx)  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400">
+</div>
+
+✨ *Aspiring to make a difference through creativity and technology!* 🚀
